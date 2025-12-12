@@ -1,0 +1,111 @@
+[10Dec2025 18:31:15.552] [main/INFO] [Arclight/]: 
+
+       ___           ___     __   /\
+      /   | ________/ (_)__ / /  / /
+     / /| |/ __/ __/ / / _ / _ \/__/
+    / ___ / / / /_/ / / / / // / /
+   /_/  |/_/  \__/_/_/\_ /_//_/ /
+                     /__/     \/
+
+    Version 顿顽 (Trials) / arclight-1.20.1-1.0.5-1a8925b
+    Build Date 2024-02-28 14:51:40
+
+[10Dec2025 18:31:15.583] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, arclightserver, --fml.forgeVersion, 47.2.20, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10Dec2025 18:31:15.584] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.8 by Oracle Corporation; OS Windows 10 arch amd64 version 10.0
+[10Dec2025 18:31:15.736] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is arclightserver
+[10Dec2025 18:31:15.812] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/C:/Users/Brian/Desktop/mc/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2399!/ Service=ModLauncher Env=SERVER
+[10Dec2025 18:31:16.117] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Brian\Desktop\mc\libraries\net\minecraftforge\fmlcore\1.20.1-47.2.20\fmlcore-1.20.1-47.2.20.jar is missing mods.toml file
+[10Dec2025 18:31:16.119] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Brian\Desktop\mc\libraries\net\minecraftforge\javafmllanguage\1.20.1-47.2.20\javafmllanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[10Dec2025 18:31:16.120] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Brian\Desktop\mc\libraries\net\minecraftforge\lowcodelanguage\1.20.1-47.2.20\lowcodelanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[10Dec2025 18:31:16.122] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file C:\Users\Brian\Desktop\mc\libraries\net\minecraftforge\mclanguage\1.20.1-47.2.20\mclanguage-1.20.1-47.2.20.jar is missing mods.toml file
+[10Dec2025 18:31:16.210] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[10Dec2025 18:31:17.482] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.common.mod.ArclightConnector]
+[10Dec2025 18:31:17.548] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Dec2025 18:31:17.550] [main/INFO] [Arclight/]: Arclight core mixin added.
+[10Dec2025 18:31:17.551] [main/INFO] [Arclight/]: Arclight optimization mixin added.
+[10Dec2025 18:31:17.563] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'arclightserver' with arguments [nogui]
+[10Dec2025 18:31:21.473] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_150430_ in mixins.arclight.core.json:world.inventory.AbstractContainerMenuMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[10Dec2025 18:31:24.461] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod loaded.
+[10Dec2025 18:31:24.497] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.2.20, for MC 1.20.1 with MCP 20230612.114412
+[10Dec2025 18:31:24.497] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.2.20 Initialized
+[10Dec2025 18:31:24.513] [modloading-worker-0/INFO] [Arclight/]: Arclight events registered.
+[10Dec2025 18:31:24.698] [main/INFO] [STDOUT/]: union:/C:/Users/Brian/Desktop/mc/mods/decocraft-3.0.0.9-beta-1.20.1.jar%23165!/assets/decocraft/decocraft.json
+[10Dec2025 18:31:29.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Dec2025 18:31:30.095] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Dec2025 18:31:30.132] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Brian/Desktop/mc/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/assets/.mcassetsroot' uses unexpected schema
+[10Dec2025 18:31:30.132] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/C:/Users/Brian/Desktop/mc/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23167!/data/.mcassetsroot' uses unexpected schema
+[10Dec2025 18:31:30.351] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.2.20 Target: 47.4.10
+[10Dec2025 18:31:31.527] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[10Dec2025 18:31:31.619] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[10Dec2025 18:31:31.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10Dec2025 18:31:31.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Dec2025 18:31:31.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Dec2025 18:31:31.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Dec2025 18:31:32.053] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Dec2025 18:31:32.082] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using default channel type
+[10Dec2025 18:31:32.170] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Dec2025 18:31:32.170] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Dec2025 18:31:32.170] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Dec2025 18:31:32.170] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Dec2025 18:31:32.375] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.20.1-1.0.5-1a8925b (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT)
+[10Dec2025 18:31:32.820] [Server thread/INFO] [Arclight/]: Registering for Bukkit ...
+[10Dec2025 18:31:32.892] [Server thread/INFO] [Arclight/]: Registered 3433 new materials with 3432 blocks and 1 items
+[10Dec2025 18:31:32.893] [Server thread/INFO] [Arclight/]: Registered 1 new potion effect types
+[10Dec2025 18:31:32.902] [Server thread/INFO] [Arclight/]: Registered 39 enchantments
+[10Dec2025 18:31:32.906] [Server thread/INFO] [Arclight/]: Registered 1 new entity types
+[10Dec2025 18:31:32.907] [Server thread/INFO] [Arclight/]: Registered 0 new villager professions
+[10Dec2025 18:31:32.908] [Server thread/INFO] [Arclight/]: Registered 0 new biomes
+[10Dec2025 18:31:32.942] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[10Dec2025 18:31:32.943] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[10Dec2025 18:31:32.944] [Server thread/INFO] [STDOUT/]: Server Ping Player Sample Count: 12
+[10Dec2025 18:31:33.039] [Server thread/INFO] [Arclight/]: Loading mappings ...
+[10Dec2025 18:31:33.236] [Server thread/INFO] [Arclight/]: Loading plugin patchers ...
+[10Dec2025 18:31:33.378] [Server thread/INFO] [Essentials/]: Loading Essentials v2.21.2
+[10Dec2025 18:31:33.383] [Server thread/INFO] [EssentialsChat/]: Loading EssentialsChat v2.21.2
+[10Dec2025 18:31:33.403] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file .\world\serverconfig\forge-server.toml is not correct. Correcting
+[10Dec2025 18:31:33.405] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[10Dec2025 18:31:33.405] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[10Dec2025 18:31:33.405] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[10Dec2025 18:31:33.405] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[10Dec2025 18:31:33.405] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[10Dec2025 18:31:33.405] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[10Dec2025 18:31:33.405] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[10Dec2025 18:31:33.405] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[10Dec2025 18:31:33.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Dec2025 18:31:33.499] [Server thread/INFO] [Arclight/]: Registered 0 new dimensions
+[10Dec2025 18:31:33.786] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[10Dec2025 18:31:33.786] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[10Dec2025 18:31:33.786] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: TwistingVines Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: WeepingVines Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: CaveVines Growth Modifier: 100%
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: View Distance: 16
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[10Dec2025 18:31:33.787] [Server thread/INFO] [Minecraft/]: Simulation Distance: 8
